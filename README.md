@@ -13,4 +13,4 @@ This dataset encompasses various features related to customer shopping preferenc
 **4. Payment Method Analysis:** Assess which Payment Method are the most popular among customers.
 
 
-Source [Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset)
+Dataset from [Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset)
